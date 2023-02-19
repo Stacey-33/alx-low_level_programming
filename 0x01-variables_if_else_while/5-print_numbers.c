@@ -1,20 +1,14 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- * main - A program that prints all single digits
+ * main - A program that prints single digits starting from 0
  * Return: 0 (Success)
  */
 int main(void)
 {
-	int i;
-	{
+	int a;
 
-	for {i = 0; i < 10; i++ }
-	{
-		printf("%d", i);
-		printf("\n");
-	}
-	}
+	for (a = 0; a <= 10; a++)
+		putchar(a);
+	putchar('\n');
 	return (0);
 }
