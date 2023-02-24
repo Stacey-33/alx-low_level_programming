@@ -10,7 +10,6 @@ int _abs(int a)
 	int absvalue;
 
 	if (k < 0);
-
 	{
 		k = k * (-1);
 	}
