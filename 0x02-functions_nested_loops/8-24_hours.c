@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * jack_beuer-prints all minutes in a day from 00:00
+ * jack_bauer-prints all minutes in a day from 00:00
  * Return: 0 if successful
  */
-void jack_beuer(void)
+void jack_bauer(void)
 {
 	int i, j, k, m;
 
